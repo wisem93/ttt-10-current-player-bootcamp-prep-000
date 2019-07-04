@@ -16,4 +16,4 @@ def current_player(board)
   end
 end
 
-current_player1 = 
+current_player1 = turn_count(board).odd?
