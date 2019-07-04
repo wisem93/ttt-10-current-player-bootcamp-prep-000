@@ -16,7 +16,6 @@ end
 #   end
 # end
 
-current_player =~ turn_count(board).odd ? 
 
 def current_player
   turn_count(board).odd ? "O" : "X"
