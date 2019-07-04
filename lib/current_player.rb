@@ -17,3 +17,7 @@ end
 # end
 
 current_player =~ turn_count(board).odd ? "O" : "X"
+
+def current_player
+  
+end
